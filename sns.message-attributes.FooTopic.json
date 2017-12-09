@@ -1,0 +1,10 @@
+{
+  "bar-id": {
+    "DataType": "String",
+    "StringValue": "123"
+  },
+  "bar-state": {
+    "DataType": "String",
+    "StringValue": "open"
+  }
+}
